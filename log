@@ -1,0 +1,197 @@
+2024-02-17T20:22:46.304Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:22:46.351Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:23:17.642Z [31merror[39m: [31mError "500". "Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/"[39m
+2024-02-17T20:34:13.439Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:34:13.764Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:34:21.869Z [31merror[39m: [31mError "500". "bad auth : Authentication failed."[39m
+2024-02-17T20:36:23.909Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:36:23.923Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:36:28.669Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-17T20:36:28.671Z [32minfo[39m: [32mDatabase connections established![39m
+2024-02-17T20:37:16.911Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:37:16.926Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:37:20.655Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-17T20:37:20.658Z [32minfo[39m: [32mDatabase connections established![39m
+2024-02-17T20:38:45.389Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:38:45.403Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:38:49.356Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-17T20:38:49.358Z [32minfo[39m: [32mDatabase connections established![39m
+2024-02-17T20:39:19.948Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:39:19.971Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:39:31.591Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:39:31.613Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:39:39.578Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-17T20:39:39.580Z [32minfo[39m: [32mDatabase connections established![39m
+2024-02-17T20:39:45.931Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:39:45.948Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:39:53.848Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:39:53.861Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:39:57.596Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:39:57.613Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:40:01.413Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:40:01.427Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:40:03.275Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:40:03.287Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:40:06.590Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-17T20:40:06.592Z [32minfo[39m: [32mDatabase connections established![39m
+2024-02-17T20:40:11.703Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:40:11.720Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:40:15.409Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:40:15.423Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:40:19.467Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:40:19.485Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:40:22.902Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:40:22.942Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:40:24.546Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:40:24.562Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:40:27.738Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:40:27.751Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:40:33.217Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:40:33.231Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:40:42.012Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-17T20:40:42.014Z [32minfo[39m: [32mDatabase connections established![39m
+2024-02-17T20:40:44.095Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:40:44.109Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:42:08.772Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:42:08.789Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:42:22.477Z [32minfo[39m: [32mBootstrapping Server....[39m
+2024-02-17T20:42:22.490Z [32minfo[39m: [32mServer Running on port 8000....[39m
+2024-02-17T20:42:35.180Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-17T20:42:35.187Z [32minfo[39m: [32mDatabase connections established![39m
+2024-02-17T20:43:27.413Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-17T20:43:27.426Z [32minfo[39m: [32mDatabase connections established![39m
+2024-02-17T20:46:19.669Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-17T20:46:19.678Z [32minfo[39m: [32mDatabase connections established![39m
+2024-02-17T20:47:23.954Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-17T20:47:23.983Z [32minfo[39m: [32mDatabase connections established![39m
+2024-02-17T20:47:44.199Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-17T20:47:44.211Z [32minfo[39m: [32mDatabase connections established![39m
+2024-02-17T20:58:26.127Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T20:58:26.136Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T20:58:26.137Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T20:59:05.321Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T20:59:05.339Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T20:59:05.378Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:01:12.665Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:01:12.701Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:01:12.705Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:01:19.125Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:01:19.173Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:01:19.237Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:01:24.063Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:01:24.076Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:01:24.089Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:01:30.162Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:01:30.171Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:01:30.175Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:01:39.999Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:01:40.005Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:01:40.006Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:01:46.186Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:01:46.193Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:01:46.196Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:02:46.812Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:02:46.829Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:02:46.835Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:03:01.747Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:03:01.754Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:03:01.755Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:05:24.675Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:05:24.694Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:05:24.700Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:07:00.694Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:07:00.710Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:07:00.716Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:07:53.841Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:07:53.856Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:07:53.860Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:08:34.302Z [32minfo[39m: [32m[Mongodb] Connected to the database![39m
+2024-02-17T21:08:34.325Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-17T21:08:34.327Z [32minfo[39m: [32mDatabase connection established![39m
+2024-02-17T21:10:41.342Z [32minfo[39m: [32m[Mongodb] Connected to the database![39m
+2024-02-17T21:10:41.365Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-17T21:10:41.367Z [32minfo[39m: [32mDatabase connection established![39m
+2024-02-17T21:11:13.872Z [32minfo[39m: [32m[Mongodb] Connected to the database![39m
+2024-02-17T21:11:13.898Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-17T21:11:13.900Z [32minfo[39m: [32mDatabase connection established![39m
+2024-02-17T21:12:20.914Z [32minfo[39m: [32m[Mongodb] Connected to the database![39m
+2024-02-17T21:12:20.928Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-17T21:12:20.929Z [32minfo[39m: [32mDatabase connection established![39m
+2024-02-17T21:14:12.958Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:14:12.983Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:14:12.990Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:36:54.023Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:36:54.033Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:36:54.035Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:39:00.610Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:39:00.616Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:39:00.618Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:39:52.409Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:39:52.415Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:39:52.417Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:40:16.325Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:40:16.331Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:40:16.333Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:42:43.159Z [32minfo[39m: [32mMiddlewares initialized![39m
+2024-02-17T21:42:43.165Z [32minfo[39m: [32minitializing routes...[39m
+2024-02-17T21:42:43.166Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-17T21:43:20.419Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:43:20.426Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:43:20.427Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:43:23.786Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:43:23.792Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:43:23.794Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:43:27.489Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:43:27.497Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:43:27.499Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:43:52.548Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:43:52.555Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:43:52.558Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:44:02.854Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:44:02.861Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:44:02.862Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:44:17.308Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:44:17.314Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:44:17.316Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:44:23.644Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:44:23.650Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:44:23.652Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:44:30.673Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:44:30.681Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:44:30.683Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:45:57.097Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:45:57.104Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:45:57.106Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:54:10.574Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:54:10.583Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:54:10.587Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-17T21:54:49.497Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-17T21:54:49.507Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-17T21:54:49.525Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-18T01:57:30.039Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-18T01:57:30.047Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-18T01:57:30.049Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-18T19:52:21.425Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-18T19:52:21.438Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-18T19:52:21.441Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-18T19:53:05.292Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-18T19:53:05.338Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-18T19:53:05.352Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-18T19:53:25.343Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-18T19:53:25.351Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-18T19:53:25.352Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-18T19:53:38.031Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-18T19:53:38.042Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-18T19:53:38.044Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-18T19:53:56.982Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-18T19:53:56.990Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-18T19:53:56.991Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-18T19:54:01.429Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-18T19:54:01.446Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-18T19:54:01.459Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-18T19:54:11.451Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-18T19:54:11.460Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-18T19:54:11.463Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-18T19:54:14.832Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-18T19:54:14.840Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-18T19:54:14.842Z [31merror[39m: [31m[Mongodb] Connection error:[39m
