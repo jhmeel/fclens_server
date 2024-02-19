@@ -589,3 +589,222 @@
 2024-02-19T14:59:15.647Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
 2024-02-19T14:59:15.649Z [32minfo[39m: [32mDatabase connection established![39m
 2024-02-19T14:59:15.662Z [32minfo[39m: [32mserver running on port 8000[39m
+2024-02-19T15:00:55.619Z [32minfo[39m: [32mMiddlewares initialized![39m
+2024-02-19T15:00:55.629Z [32minfo[39m: [32minitializing routes...[39m
+2024-02-19T15:00:55.631Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-19T15:01:00.089Z [32minfo[39m: [32m[Mongodb] Connected to the database![39m
+2024-02-19T15:01:00.101Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-19T15:01:00.103Z [32minfo[39m: [32mDatabase connection established![39m
+2024-02-19T15:01:00.117Z [32minfo[39m: [32mserver running on port 8000[39m
+2024-02-19T15:06:12.935Z [32minfo[39m: [32mMiddlewares initialized![39m
+2024-02-19T15:06:12.946Z [32minfo[39m: [32minitializing routes...[39m
+2024-02-19T15:06:12.947Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-19T15:06:18.353Z [32minfo[39m: [32m[Mongodb] Connected to the database![39m
+2024-02-19T15:06:18.361Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-19T15:06:18.363Z [32minfo[39m: [32mDatabase connection established![39m
+2024-02-19T15:06:18.378Z [32minfo[39m: [32mserver running on port 8000[39m
+2024-02-19T15:06:32.581Z [32minfo[39m: [32mMiddlewares initialized![39m
+2024-02-19T15:06:32.588Z [32minfo[39m: [32minitializing routes...[39m
+2024-02-19T15:06:32.590Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-19T15:06:36.170Z [32minfo[39m: [32m[Mongodb] Connected to the database![39m
+2024-02-19T15:06:36.177Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-19T15:06:36.179Z [32minfo[39m: [32mDatabase connection established![39m
+2024-02-19T15:06:36.190Z [32minfo[39m: [32mserver running on port 8000[39m
+2024-02-19T15:06:44.509Z [32minfo[39m: [32mMiddlewares initialized![39m
+2024-02-19T15:06:44.516Z [32minfo[39m: [32minitializing routes...[39m
+2024-02-19T15:06:44.518Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-19T15:06:48.554Z [32minfo[39m: [32m[Mongodb] Connected to the database![39m
+2024-02-19T15:06:48.568Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-19T15:06:48.571Z [32minfo[39m: [32mDatabase connection established![39m
+2024-02-19T15:06:48.598Z [32minfo[39m: [32mserver running on port 8000[39m
+2024-02-19T15:07:04.421Z [32minfo[39m: [32mMiddlewares initialized![39m
+2024-02-19T15:07:04.428Z [32minfo[39m: [32minitializing routes...[39m
+2024-02-19T15:07:04.429Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-19T15:07:08.119Z [32minfo[39m: [32m[Mongodb] Connected to the database![39m
+2024-02-19T15:07:08.133Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-19T15:07:08.136Z [32minfo[39m: [32mDatabase connection established![39m
+2024-02-19T15:07:08.168Z [32minfo[39m: [32mserver running on port 8000[39m
+2024-02-19T15:16:31.195Z [32minfo[39m: [32mMiddlewares initialized![39m
+2024-02-19T15:16:31.225Z [32minfo[39m: [32minitializing routes...[39m
+2024-02-19T15:16:31.226Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-19T15:16:36.744Z [32minfo[39m: [32m[Mongodb] Connected to the database![39m
+2024-02-19T15:16:36.752Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-19T15:16:36.754Z [32minfo[39m: [32mDatabase connection established![39m
+2024-02-19T15:16:36.773Z [32minfo[39m: [32mserver running on port 8000[39m
+2024-02-19T15:18:02.597Z [32minfo[39m: [32m{[39m
+[32m  cookie: '_ga=GA1.1.1575568424.1705275315; _ga_CZN50NEF3P=GS1.1.1707431621.5.1.1707431632.0.0.0',[39m
+[32m  'accept-language': 'en-US,en;q=0.9',[39m
+[32m  'accept-encoding': 'gzip, deflate, br',[39m
+[32m  referer: 'http://localhost:5173/',[39m
+[32m  'sec-fetch-dest': 'empty',[39m
+[32m  'sec-fetch-mode': 'cors',[39m
+[32m  'sec-fetch-site': 'same-origin',[39m
+[32m  origin: 'http://localhost:5173',[39m
+[32m  'content-type': 'application/json',[39m
+[32m  'user-agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1',[39m
+[32m  accept: 'application/json, text/plain, */*',[39m
+[32m  'content-length': '72',[39m
+[32m  connection: 'close',[39m
+[32m  host: 'localhost:8000'[39m
+[32m}[39m
+2024-02-19T15:18:31.530Z [32minfo[39m: [32m{[39m
+[32m  cookie: '_ga=GA1.1.1575568424.1705275315; _ga_CZN50NEF3P=GS1.1.1707431621.5.1.1707431632.0.0.0',[39m
+[32m  'accept-language': 'en-US,en;q=0.9',[39m
+[32m  'accept-encoding': 'gzip, deflate, br',[39m
+[32m  referer: 'http://localhost:5173/',[39m
+[32m  'sec-fetch-dest': 'empty',[39m
+[32m  'sec-fetch-mode': 'cors',[39m
+[32m  'sec-fetch-site': 'same-origin',[39m
+[32m  origin: 'http://localhost:5173',[39m
+[32m  'content-type': 'application/json',[39m
+[32m  'user-agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1',[39m
+[32m  accept: 'application/json, text/plain, */*',[39m
+[32m  'content-length': '68',[39m
+[32m  connection: 'close',[39m
+[32m  host: 'localhost:8000'[39m
+[32m}[39m
+2024-02-19T15:18:31.572Z [31merror[39m: [31mError "400". "Missing registration params. "fullname, email, phone and course is required""[39m
+2024-02-19T15:18:32.979Z [32minfo[39m: [32m{[39m
+[32m  cookie: '_ga=GA1.1.1575568424.1705275315; _ga_CZN50NEF3P=GS1.1.1707431621.5.1.1707431632.0.0.0',[39m
+[32m  'accept-language': 'en-US,en;q=0.9',[39m
+[32m  'accept-encoding': 'gzip, deflate, br',[39m
+[32m  referer: 'http://localhost:5173/',[39m
+[32m  'sec-fetch-dest': 'empty',[39m
+[32m  'sec-fetch-mode': 'cors',[39m
+[32m  'sec-fetch-site': 'same-origin',[39m
+[32m  origin: 'http://localhost:5173',[39m
+[32m  'content-type': 'application/json',[39m
+[32m  'user-agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1',[39m
+[32m  accept: 'application/json, text/plain, */*',[39m
+[32m  'content-length': '83',[39m
+[32m  connection: 'close',[39m
+[32m  host: 'localhost:8000'[39m
+[32m}[39m
+2024-02-19T15:20:00.202Z [32minfo[39m: [32m{[39m
+[32m  cookie: '_ga=GA1.1.1575568424.1705275315; _ga_CZN50NEF3P=GS1.1.1707431621.5.1.1707431632.0.0.0',[39m
+[32m  'accept-language': 'en-US,en;q=0.9',[39m
+[32m  'accept-encoding': 'gzip, deflate, br',[39m
+[32m  referer: 'http://localhost:5173/',[39m
+[32m  'sec-fetch-dest': 'empty',[39m
+[32m  'sec-fetch-mode': 'cors',[39m
+[32m  'sec-fetch-site': 'same-origin',[39m
+[32m  origin: 'http://localhost:5173',[39m
+[32m  'content-type': 'application/json',[39m
+[32m  'user-agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1',[39m
+[32m  accept: 'application/json, text/plain, */*',[39m
+[32m  'content-length': '97',[39m
+[32m  connection: 'close',[39m
+[32m  host: 'localhost:8000'[39m
+[32m}[39m
+2024-02-19T15:20:00.211Z [31merror[39m: [31mError "400". "Missing registration params. "fullname, email, phone and course is required""[39m
+2024-02-19T15:21:28.135Z [32minfo[39m: [32m{[39m
+[32m  cookie: '_ga=GA1.1.1575568424.1705275315; _ga_CZN50NEF3P=GS1.1.1707431621.5.1.1707431632.0.0.0',[39m
+[32m  'accept-language': 'en-US,en;q=0.9',[39m
+[32m  'accept-encoding': 'gzip, deflate, br',[39m
+[32m  referer: 'http://localhost:5173/',[39m
+[32m  'sec-fetch-dest': 'empty',[39m
+[32m  'sec-fetch-mode': 'cors',[39m
+[32m  'sec-fetch-site': 'same-origin',[39m
+[32m  origin: 'http://localhost:5173',[39m
+[32m  'content-type': 'application/json',[39m
+[32m  'user-agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1',[39m
+[32m  accept: 'application/json, text/plain, */*',[39m
+[32m  'content-length': '108',[39m
+[32m  connection: 'close',[39m
+[32m  host: 'localhost:8000'[39m
+[32m}[39m
+2024-02-19T15:21:28.604Z [31merror[39m: [31mError "400". "Existing Email Address- You have previously registerd for this session"[39m
+2024-02-19T15:21:43.789Z [32minfo[39m: [32m{[39m
+[32m  cookie: '_ga=GA1.1.1575568424.1705275315; _ga_CZN50NEF3P=GS1.1.1707431621.5.1.1707431632.0.0.0',[39m
+[32m  'accept-language': 'en-US,en;q=0.9',[39m
+[32m  'accept-encoding': 'gzip, deflate, br',[39m
+[32m  referer: 'http://localhost:5173/',[39m
+[32m  'sec-fetch-dest': 'empty',[39m
+[32m  'sec-fetch-mode': 'cors',[39m
+[32m  'sec-fetch-site': 'same-origin',[39m
+[32m  origin: 'http://localhost:5173',[39m
+[32m  'content-type': 'application/json',[39m
+[32m  'user-agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1',[39m
+[32m  accept: 'application/json, text/plain, */*',[39m
+[32m  'content-length': '107',[39m
+[32m  connection: 'close',[39m
+[32m  host: 'localhost:8000'[39m
+[32m}[39m
+2024-02-19T15:22:13.953Z [32minfo[39m: [32m{[39m
+[32m  cookie: '_ga=GA1.1.1575568424.1705275315; _ga_CZN50NEF3P=GS1.1.1707431621.5.1.1707431632.0.0.0',[39m
+[32m  'accept-language': 'en-US,en;q=0.9',[39m
+[32m  'accept-encoding': 'gzip, deflate, br',[39m
+[32m  referer: 'http://localhost:5173/',[39m
+[32m  'sec-fetch-dest': 'empty',[39m
+[32m  'sec-fetch-mode': 'cors',[39m
+[32m  'sec-fetch-site': 'same-origin',[39m
+[32m  origin: 'http://localhost:5173',[39m
+[32m  'sec-ch-ua-platform': '"Windows"',[39m
+[32m  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',[39m
+[32m  'sec-ch-ua-mobile': '?0',[39m
+[32m  'content-type': 'application/json',[39m
+[32m  accept: 'application/json, text/plain, */*',[39m
+[32m  'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',[39m
+[32m  'content-length': '71',[39m
+[32m  connection: 'close',[39m
+[32m  host: 'localhost:8000'[39m
+[32m}[39m
+2024-02-19T15:22:13.960Z [31merror[39m: [31mError "400". "Missing registration params. "fullname, email, phone and course is required""[39m
+2024-02-19T15:22:23.911Z [32minfo[39m: [32m{[39m
+[32m  cookie: '_ga=GA1.1.1575568424.1705275315; _ga_CZN50NEF3P=GS1.1.1707431621.5.1.1707431632.0.0.0',[39m
+[32m  'accept-language': 'en-US,en;q=0.9',[39m
+[32m  'accept-encoding': 'gzip, deflate, br',[39m
+[32m  referer: 'http://localhost:5173/',[39m
+[32m  'sec-fetch-dest': 'empty',[39m
+[32m  'sec-fetch-mode': 'cors',[39m
+[32m  'sec-fetch-site': 'same-origin',[39m
+[32m  origin: 'http://localhost:5173',[39m
+[32m  'sec-ch-ua-platform': '"Windows"',[39m
+[32m  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',[39m
+[32m  'sec-ch-ua-mobile': '?0',[39m
+[32m  'content-type': 'application/json',[39m
+[32m  accept: 'application/json, text/plain, */*',[39m
+[32m  'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',[39m
+[32m  'content-length': '82',[39m
+[32m  connection: 'close',[39m
+[32m  host: 'localhost:8000'[39m
+[32m}[39m
+2024-02-19T15:28:43.144Z [32minfo[39m: [32m{[39m
+[32m  cookie: '_ga=GA1.1.1575568424.1705275315; _ga_CZN50NEF3P=GS1.1.1707431621.5.1.1707431632.0.0.0',[39m
+[32m  'accept-language': 'en-US,en;q=0.9',[39m
+[32m  'accept-encoding': 'gzip, deflate, br',[39m
+[32m  referer: 'http://localhost:5173/',[39m
+[32m  'sec-fetch-dest': 'empty',[39m
+[32m  'sec-fetch-mode': 'cors',[39m
+[32m  'sec-fetch-site': 'same-origin',[39m
+[32m  origin: 'http://localhost:5173',[39m
+[32m  'sec-ch-ua-platform': '"Windows"',[39m
+[32m  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',[39m
+[32m  'sec-ch-ua-mobile': '?0',[39m
+[32m  'content-type': 'application/json',[39m
+[32m  accept: 'application/json, text/plain, */*',[39m
+[32m  'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',[39m
+[32m  'content-length': '54',[39m
+[32m  connection: 'close',[39m
+[32m  host: 'localhost:8000'[39m
+[32m}[39m
+2024-02-19T15:28:43.150Z [31merror[39m: [31mError "400". "Missing registration params. "fullname, email, phone and course is required""[39m
+2024-02-19T15:28:49.270Z [32minfo[39m: [32m{[39m
+[32m  cookie: '_ga=GA1.1.1575568424.1705275315; _ga_CZN50NEF3P=GS1.1.1707431621.5.1.1707431632.0.0.0',[39m
+[32m  'accept-language': 'en-US,en;q=0.9',[39m
+[32m  'accept-encoding': 'gzip, deflate, br',[39m
+[32m  referer: 'http://localhost:5173/',[39m
+[32m  'sec-fetch-dest': 'empty',[39m
+[32m  'sec-fetch-mode': 'cors',[39m
+[32m  'sec-fetch-site': 'same-origin',[39m
+[32m  origin: 'http://localhost:5173',[39m
+[32m  'sec-ch-ua-platform': '"Windows"',[39m
+[32m  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',[39m
+[32m  'sec-ch-ua-mobile': '?0',[39m
+[32m  'content-type': 'application/json',[39m
+[32m  accept: 'application/json, text/plain, */*',[39m
+[32m  'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',[39m
+[32m  'content-length': '69',[39m
+[32m  connection: 'close',[39m
+[32m  host: 'localhost:8000'[39m
+[32m}[39m
