@@ -808,3 +808,81 @@
 [32m  connection: 'close',[39m
 [32m  host: 'localhost:8000'[39m
 [32m}[39m
+2024-02-19T15:30:14.248Z [32minfo[39m: [32m{[39m
+[32m  cookie: '_ga=GA1.1.1575568424.1705275315; _ga_CZN50NEF3P=GS1.1.1707431621.5.1.1707431632.0.0.0',[39m
+[32m  'accept-language': 'en-US,en;q=0.9',[39m
+[32m  'accept-encoding': 'gzip, deflate, br',[39m
+[32m  referer: 'http://localhost:5173/',[39m
+[32m  'sec-fetch-dest': 'empty',[39m
+[32m  'sec-fetch-mode': 'cors',[39m
+[32m  'sec-fetch-site': 'same-origin',[39m
+[32m  origin: 'http://localhost:5173',[39m
+[32m  'sec-ch-ua-platform': '"Windows"',[39m
+[32m  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',[39m
+[32m  'sec-ch-ua-mobile': '?0',[39m
+[32m  'content-type': 'application/json',[39m
+[32m  accept: 'application/json, text/plain, */*',[39m
+[32m  'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',[39m
+[32m  'content-length': '60',[39m
+[32m  connection: 'close',[39m
+[32m  host: 'localhost:8000'[39m
+[32m}[39m
+2024-02-19T15:30:14.256Z [31merror[39m: [31mError "400". "Missing registration params. "fullname, email, phone and course is required""[39m
+2024-02-19T15:30:15.467Z [32minfo[39m: [32m{[39m
+[32m  cookie: '_ga=GA1.1.1575568424.1705275315; _ga_CZN50NEF3P=GS1.1.1707431621.5.1.1707431632.0.0.0',[39m
+[32m  'accept-language': 'en-US,en;q=0.9',[39m
+[32m  'accept-encoding': 'gzip, deflate, br',[39m
+[32m  referer: 'http://localhost:5173/',[39m
+[32m  'sec-fetch-dest': 'empty',[39m
+[32m  'sec-fetch-mode': 'cors',[39m
+[32m  'sec-fetch-site': 'same-origin',[39m
+[32m  origin: 'http://localhost:5173',[39m
+[32m  'sec-ch-ua-platform': '"Windows"',[39m
+[32m  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',[39m
+[32m  'sec-ch-ua-mobile': '?0',[39m
+[32m  'content-type': 'application/json',[39m
+[32m  accept: 'application/json, text/plain, */*',[39m
+[32m  'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',[39m
+[32m  'content-length': '75',[39m
+[32m  connection: 'close',[39m
+[32m  host: 'localhost:8000'[39m
+[32m}[39m
+2024-02-19T15:30:59.739Z [32minfo[39m: [32m{[39m
+[32m  cookie: '_ga=GA1.1.1575568424.1705275315; _ga_CZN50NEF3P=GS1.1.1707431621.5.1.1707431632.0.0.0',[39m
+[32m  'accept-language': 'en-US,en;q=0.9',[39m
+[32m  'accept-encoding': 'gzip, deflate, br',[39m
+[32m  referer: 'http://localhost:5173/',[39m
+[32m  'sec-fetch-dest': 'empty',[39m
+[32m  'sec-fetch-mode': 'cors',[39m
+[32m  'sec-fetch-site': 'same-origin',[39m
+[32m  origin: 'http://localhost:5173',[39m
+[32m  'sec-ch-ua-platform': '"Windows"',[39m
+[32m  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',[39m
+[32m  'sec-ch-ua-mobile': '?0',[39m
+[32m  'content-type': 'application/json',[39m
+[32m  accept: 'application/json, text/plain, */*',[39m
+[32m  'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',[39m
+[32m  'content-length': '86',[39m
+[32m  connection: 'close',[39m
+[32m  host: 'localhost:8000'[39m
+[32m}[39m
+2024-02-19T15:30:59.750Z [31merror[39m: [31mError "400". "Missing registration params. "fullname, email, phone and course is required""[39m
+2024-02-19T15:31:11.872Z [32minfo[39m: [32m{[39m
+[32m  cookie: '_ga=GA1.1.1575568424.1705275315; _ga_CZN50NEF3P=GS1.1.1707431621.5.1.1707431632.0.0.0',[39m
+[32m  'accept-language': 'en-US,en;q=0.9',[39m
+[32m  'accept-encoding': 'gzip, deflate, br',[39m
+[32m  referer: 'http://localhost:5173/',[39m
+[32m  'sec-fetch-dest': 'empty',[39m
+[32m  'sec-fetch-mode': 'cors',[39m
+[32m  'sec-fetch-site': 'same-origin',[39m
+[32m  origin: 'http://localhost:5173',[39m
+[32m  'sec-ch-ua-platform': '"Windows"',[39m
+[32m  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',[39m
+[32m  'sec-ch-ua-mobile': '?0',[39m
+[32m  'content-type': 'application/json',[39m
+[32m  accept: 'application/json, text/plain, */*',[39m
+[32m  'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',[39m
+[32m  'content-length': '101',[39m
+[32m  connection: 'close',[39m
+[32m  host: 'localhost:8000'[39m
+[32m}[39m
