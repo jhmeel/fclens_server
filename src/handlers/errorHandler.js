@@ -6,9 +6,7 @@ class ErrorHandler extends Error {
     description = `Error "${statusCode}". "${message}"`,
     internalLog = description
   ) {
-    super(
-      `(HttpResponseError) status: "${statusCode}" description: "${description}"`
-    );
+    super(message);
     logger.error(description);
     Error.captureStackTrace(this, this.constructor);
   }
