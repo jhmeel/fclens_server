@@ -947,3 +947,13 @@
 [32m  connection: 'close',[39m
 [32m  host: 'localhost:8000'[39m
 [32m}[39m
+2024-02-19T17:06:33.738Z [32minfo[39m: [32mMiddlewares initialized![39m
+2024-02-19T17:06:33.749Z [32minfo[39m: [32minitializing routes...[39m
+2024-02-19T17:06:33.751Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-19T17:06:45.554Z [32minfo[39m: [32mMiddlewares initialized![39m
+2024-02-19T17:06:45.562Z [32minfo[39m: [32minitializing routes...[39m
+2024-02-19T17:06:45.563Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-19T17:06:50.024Z [32minfo[39m: [32m[Mongodb] Connected to the database![39m
+2024-02-19T17:06:50.029Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-19T17:06:50.030Z [32minfo[39m: [32mDatabase connection established![39m
+2024-02-19T17:06:50.044Z [32minfo[39m: [32mserver running on port 8000[39m

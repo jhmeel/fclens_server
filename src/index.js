@@ -37,7 +37,7 @@ class Core {
         logger.info(req.headers);
         next();
       });
-      this.app.use(errorMiddleware);
+  
       logger.info("Middlewares initialized!");
     } catch (err) {
       logger.error("failed to initialize middlewares");
