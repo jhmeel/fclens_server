@@ -38,7 +38,7 @@ class DbManager extends Emitter {
       });
  
       mongoose.connection.on("error", (error) => {
-        logger.error("[Mongodb] Connection error:", error.message);
+        logger.error("[Mongodb] Connection error:", error);
         this.emit("MONGOOSE_ERROR", error);
       });
 
