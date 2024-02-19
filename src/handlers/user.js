@@ -11,9 +11,17 @@ export const register = catchAsync(async (req, res, next) => {
         400,
         'Missing registration params. "fullname, email, phone and course is required"'
       )
-    );
+    ); 
   }
-
+const userExist = await User.findOne({email})
+if(userExist){
+  return next(
+    new ErrorHandler(
+      400,
+      'Existing Email Address- You have previously registerd for this session'
+    )
+  ); 
+}
   const user = await User.create({
     fullname,
     email,

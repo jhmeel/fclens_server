@@ -27,6 +27,7 @@ class DbManager extends Emitter {
       this.emit("CONNECTION_ERROR", error);
       logger.error("Failed to establish database connection:", error.message);
     }
+   
   }
 
   async initializeMongoose(mongooseUri) {
@@ -35,7 +36,7 @@ class DbManager extends Emitter {
         logger.info("[Mongodb] Connected to the database!");
         this.emit("MONGOOSE_CONNECTED");
       });
-
+ 
       mongoose.connection.on("error", (error) => {
         logger.error("[Mongodb] Connection error:", error.message);
         this.emit("MONGOOSE_ERROR", error);

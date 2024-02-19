@@ -9,19 +9,11 @@ import helmet from "helmet";
 import Emitter from "./utils/emitter.js";
 import RoutesProvider from "./providers/routesProvider.js";
 
-class Core extends Emitter {
+class Core {
   constructor() {
-    super();
     this.isRunning = false;
     this.app = express();
     this.PORT = Config.PORT;
-
-    this.on("DATABASE_CONNECTED", () => {
-      logger.info("Bootstrapping Server....");
-      this.app.listen(this.PORT, () => {
-        logger.info(`Server Running on port ${this.PORT}....`);
-      });
-    });
   }
 
   initMiddlewares() {
@@ -29,8 +21,12 @@ class Core extends Emitter {
       this.app.use(cors());
       this.app.use(helmet());
       this.app.disable("x-powered-by");
-      this.app.use(bodyParser.json()); 
+      this.app.use(bodyParser.json());
       this.app.use(bodyParser.urlencoded({ extended: true }));
+      this.app.use((req, res, next) => {
+        logger.info(req.headers);
+        next();
+      });
       this.app.use(errorMiddleware);
       logger.info("Middlewares initialized!");
     } catch (err) {
@@ -41,21 +37,16 @@ class Core extends Emitter {
   initRoutes() {
     RoutesProvider.init(this.app);
   }
-  
-  initDb() {
-    DB.init();
-    DB.on("CONNECTED", () => {
-      this.emit("DATABASE_CONNECTED");
-    });
-  }
 
-  init() {
+  bootstrap() {
     this.initMiddlewares();
     this.initRoutes();
-    this.initDb(); 
-    return this;
-  } 
+    DB.init().then(() => {
+      this.app.listen(this.PORT, () => {
+        logger.info(`server running on port ${this.PORT}`);
+      });
+    });
+  }
 }
 
-new Core().init();
- 
+new Core().bootstrap();

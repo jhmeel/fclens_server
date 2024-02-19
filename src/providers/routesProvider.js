@@ -4,9 +4,9 @@ import UserRouter from "../routes/user.js";
 class RoutesProvider {
   static init(app) {
     logger.info("initializing routes...");
-    app.use("/api/v1", UserRouter);
+    app.use(UserRouter);
     logger.info("Routes initialized!");
   }
 }
-
+ 
 export default RoutesProvider;
