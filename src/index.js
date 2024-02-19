@@ -11,23 +11,24 @@ import dotenv from "dotenv";
 
 dotenv.config();
 
-
 class Core {
   constructor() {
     this.isRunning = false;
     this.app = express();
     this.PORT = Config.PORT;
-    this.initMiddlewares(); // Move middleware initialization to the constructor
+    this.initMiddlewares();
   }
 
   initMiddlewares() {
     try {
-      this.app.use(cors({
-        origin: "*",
-        methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
-        credentials: true,
-        optionSuccessStatus: 200,
-      }));
+      this.app.use(
+        cors({
+          origin: "*",
+          methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
+          credentials: true,
+          optionSuccessStatus: 200,
+        })
+      );
       this.app.use(helmet());
       this.app.disable("x-powered-by");
       this.app.use(bodyParser.json());

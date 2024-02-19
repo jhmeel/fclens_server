@@ -917,3 +917,33 @@
 2024-02-19T16:36:44.601Z [32minfo[39m: [32mMiddlewares initialized![39m
 2024-02-19T16:36:44.612Z [32minfo[39m: [32minitializing routes...[39m
 2024-02-19T16:36:44.613Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-19T16:36:51.946Z [32minfo[39m: [32mMiddlewares initialized![39m
+2024-02-19T16:36:51.958Z [32minfo[39m: [32minitializing routes...[39m
+2024-02-19T16:36:51.960Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-19T16:36:55.553Z [32minfo[39m: [32m[Mongodb] Connected to the database![39m
+2024-02-19T16:36:55.564Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-19T16:36:55.565Z [32minfo[39m: [32mDatabase connection established![39m
+2024-02-19T16:36:55.578Z [32minfo[39m: [32mserver running on port 8000[39m
+2024-02-19T16:53:58.209Z [32minfo[39m: [32mMiddlewares initialized![39m
+2024-02-19T16:53:58.310Z [32minfo[39m: [32minitializing routes...[39m
+2024-02-19T16:53:58.337Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-19T16:54:03.388Z [32minfo[39m: [32m[Mongodb] Connected to the database![39m
+2024-02-19T16:54:03.403Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-19T16:54:03.406Z [32minfo[39m: [32mDatabase connection established![39m
+2024-02-19T16:54:03.431Z [32minfo[39m: [32mserver running on port 8000[39m
+2024-02-19T16:55:51.399Z [32minfo[39m: [32m{[39m
+[32m  cookie: '_ga=GA1.1.1575568424.1705275315; _ga_CZN50NEF3P=GS1.1.1707431621.5.1.1707431632.0.0.0',[39m
+[32m  'accept-language': 'en-US,en;q=0.9',[39m
+[32m  'accept-encoding': 'gzip, deflate, br',[39m
+[32m  referer: 'http://localhost:5173/',[39m
+[32m  'sec-fetch-dest': 'empty',[39m
+[32m  'sec-fetch-mode': 'cors',[39m
+[32m  'sec-fetch-site': 'same-origin',[39m
+[32m  origin: 'http://localhost:5173',[39m
+[32m  'content-type': 'application/json',[39m
+[32m  'user-agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1',[39m
+[32m  accept: 'application/json, text/plain, */*',[39m
+[32m  'content-length': '88',[39m
+[32m  connection: 'close',[39m
+[32m  host: 'localhost:8000'[39m
+[32m}[39m
