@@ -575,3 +575,17 @@
 2024-02-19T14:30:55.708Z [32minfo[39m: [32mserver running on port 8000[39m
 2024-02-19T14:49:08.907Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
 2024-02-19T14:50:00.627Z [32minfo[39m: [32m[Mongodb] Connected to the database![39m
+2024-02-19T14:56:20.672Z [32minfo[39m: [32mMiddlewares initialized![39m
+2024-02-19T14:56:20.684Z [32minfo[39m: [32minitializing routes...[39m
+2024-02-19T14:56:20.687Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-19T14:56:27.193Z [32minfo[39m: [32m[Mongodb] Connected to the database![39m
+2024-02-19T14:56:27.201Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-19T14:56:27.204Z [32minfo[39m: [32mDatabase connection established![39m
+2024-02-19T14:56:27.221Z [32minfo[39m: [32mserver running on port 8000[39m
+2024-02-19T14:59:10.292Z [32minfo[39m: [32mMiddlewares initialized![39m
+2024-02-19T14:59:10.305Z [32minfo[39m: [32minitializing routes...[39m
+2024-02-19T14:59:10.307Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-19T14:59:15.637Z [32minfo[39m: [32m[Mongodb] Connected to the database![39m
+2024-02-19T14:59:15.647Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-19T14:59:15.649Z [32minfo[39m: [32mDatabase connection established![39m
+2024-02-19T14:59:15.662Z [32minfo[39m: [32mserver running on port 8000[39m
