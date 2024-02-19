@@ -19,7 +19,9 @@ class Core {
 
   initMiddlewares() {
     try {
-      this.app.use(cors());
+      this.app.use(cors({
+        origin: 'https://fclens.onrender.com',
+      }))
       this.app.use(helmet());
       this.app.disable("x-powered-by");
       this.app.use(bodyParser.json());
