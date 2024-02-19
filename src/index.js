@@ -7,7 +7,9 @@ import cors from "cors";
 import bodyParser from "body-parser";
 import helmet from "helmet";
 import RoutesProvider from "./providers/routesProvider.js";
+import dotenv from'dotenv'
 
+dotenv.config()
 class Core {
   constructor() {
     this.isRunning = false;

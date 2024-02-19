@@ -1,7 +1,7 @@
 const Config = {
   PORT: process.env.PORT || 8000,
   MONGOOSE: {
-    URI: process.env.MONGOOSE_URI,
+    URI: process.env.MONGOOSE_URI||'mongodb+srv://Jhmeel:08081434@cluster0.cyblpqk.mongodb.net/',
   },
   LOGGER: {
     LOG_STORAGE_PATH: "./log",
