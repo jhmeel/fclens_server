@@ -451,3 +451,38 @@
 2024-02-19T00:37:28.027Z [31merror[39m: [31mFailed to establish database connection:[39m
 2024-02-19T00:37:28.048Z [31merror[39m: [31m[Mongodb] Connection error:[39m
 2024-02-19T00:37:28.078Z [32minfo[39m: [32mserver running on port 8000[39m
+2024-02-19T00:37:44.897Z [32minfo[39m: [32mMiddlewares initialized![39m
+2024-02-19T00:37:44.903Z [32minfo[39m: [32minitializing routes...[39m
+2024-02-19T00:37:44.904Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-19T00:38:15.203Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-19T00:38:15.208Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-19T00:38:15.236Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-19T00:38:15.244Z [32minfo[39m: [32mserver running on port 8000[39m
+2024-02-19T00:45:45.509Z [32minfo[39m: [32mMiddlewares initialized![39m
+2024-02-19T00:45:45.547Z [32minfo[39m: [32minitializing routes...[39m
+2024-02-19T00:45:45.562Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-19T00:46:17.567Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-19T00:46:17.569Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-19T00:46:17.576Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-19T00:46:17.579Z [32minfo[39m: [32mserver running on port 8000[39m
+2024-02-19T07:52:33.166Z [32minfo[39m: [32mMiddlewares initialized![39m
+2024-02-19T07:52:33.175Z [32minfo[39m: [32minitializing routes...[39m
+2024-02-19T07:52:33.177Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-19T07:52:33.214Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-19T07:52:33.215Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-19T07:52:33.222Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-19T07:52:33.226Z [32minfo[39m: [32mserver running on port 8000[39m
+2024-02-19T07:52:54.537Z [32minfo[39m: [32mMiddlewares initialized![39m
+2024-02-19T07:52:54.545Z [32minfo[39m: [32minitializing routes...[39m
+2024-02-19T07:52:54.547Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-19T07:52:54.612Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-19T07:52:54.614Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-19T07:52:54.621Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-19T07:52:54.625Z [32minfo[39m: [32mserver running on port 8000[39m
+2024-02-19T07:52:57.502Z [32minfo[39m: [32mMiddlewares initialized![39m
+2024-02-19T07:52:57.514Z [32minfo[39m: [32minitializing routes...[39m
+2024-02-19T07:52:57.516Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-19T07:52:57.591Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
+2024-02-19T07:52:57.595Z [31merror[39m: [31mFailed to establish database connection:[39m
+2024-02-19T07:52:57.606Z [31merror[39m: [31m[Mongodb] Connection error:[39m
+2024-02-19T07:52:57.610Z [32minfo[39m: [32mserver running on port 8000[39m

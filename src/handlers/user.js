@@ -30,8 +30,9 @@ if(userExist){
   });
 
   res.status(200).json({
-    status: "Successful",
+    success: true,
     message: "Registration Completed!",
+    user
   });
 });
 

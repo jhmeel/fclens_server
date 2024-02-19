@@ -6,7 +6,6 @@ import { errorMiddleware } from "./middlewares/error.js";
 import cors from "cors";
 import bodyParser from "body-parser";
 import helmet from "helmet";
-import Emitter from "./utils/emitter.js";
 import RoutesProvider from "./providers/routesProvider.js";
 
 class Core {
