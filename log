@@ -895,3 +895,10 @@
 2024-02-19T15:41:24.872Z [32minfo[39m: [32mserver running on port 8000[39m
 2024-02-19T15:52:14.457Z [33mwarn[39m: [33m[Mongodb] Connection disconnected![39m
 2024-02-19T15:52:26.261Z [32minfo[39m: [32m[Mongodb] Connected to the database![39m
+2024-02-19T16:07:30.262Z [32minfo[39m: [32mMiddlewares initialized![39m
+2024-02-19T16:07:30.281Z [32minfo[39m: [32minitializing routes...[39m
+2024-02-19T16:07:30.289Z [32minfo[39m: [32mRoutes initialized![39m
+2024-02-19T16:07:34.964Z [32minfo[39m: [32m[Mongodb] Connected to the database![39m
+2024-02-19T16:07:34.977Z [32minfo[39m: [32m[Mongodb] Initialized successfully![39m
+2024-02-19T16:07:34.979Z [32minfo[39m: [32mDatabase connection established![39m
+2024-02-19T16:07:35.001Z [32minfo[39m: [32mserver running on port 8000[39m

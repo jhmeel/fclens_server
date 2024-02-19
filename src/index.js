@@ -7,9 +7,9 @@ import cors from "cors";
 import bodyParser from "body-parser";
 import helmet from "helmet";
 import RoutesProvider from "./providers/routesProvider.js";
-import dotenv from'dotenv'
+import dotenv from "dotenv";
 
-dotenv.config()
+dotenv.config();
 class Core {
   constructor() {
     this.isRunning = false;
@@ -19,12 +19,13 @@ class Core {
 
   initMiddlewares() {
     try {
-     
       this.app.use(helmet());
       this.app.disable("x-powered-by");
       this.app.use(bodyParser.json());
       this.app.use(bodyParser.urlencoded({ extended: true }));
-      this.app.use(cors())
+      this.app.use(
+        cors({ origin: "*", credentials: true, optionSuccessStatus: 200 })
+      );
       this.app.use((req, res, next) => {
         logger.info(req.headers);
         next();
