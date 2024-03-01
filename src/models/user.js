@@ -19,7 +19,7 @@ const userSchema = new Schema(
       required: true,
       enum: [
         "Web Development",
-        "React-Redux",
+        "Mobile Development",
         "Data Science",
         "Styled Components",
         "Nodejs",
